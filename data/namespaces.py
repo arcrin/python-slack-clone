@@ -36,4 +36,4 @@ linux_ns.add_room(Room(1, "Red Hat", 2))
 linux_ns.add_room(Room(2, "MacOs", 2))
 linux_ns.add_room(Room(3, "Kernal Development", 2))
 
-namespaces = [wiki_ns, moz_ns, linux_ns]
+namespacesData = [wiki_ns, moz_ns, linux_ns]
